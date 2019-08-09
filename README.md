@@ -1,4 +1,4 @@
-# CustomLog
+### What things can this lib do for you?
 
 With this lib,you call filter the log that just belong to your app easily.
 
@@ -22,7 +22,7 @@ With this lib,you call filter the log that just belong to your app easily.
  
     just filter "APPO"
 
-Mark:
+### Mark:
 
    Log saving path: storage/emulated/0/Android/data/com.xx.xxx/files/
     
