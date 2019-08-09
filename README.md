@@ -1,6 +1,10 @@
 ### What things can this lib do for you?
 
-With this lib,you call filter the log that just belong to your app easily.
+With this lib:
+
+- you can filter the log that just belong to your app easily.
+
+- logs can be automatically saving to disk.
 
 ### How to use this lib
 
@@ -24,5 +28,5 @@ With this lib,you call filter the log that just belong to your app easily.
 
 ### Mark:
 
-   Log saving path: storage/emulated/0/Android/data/com.xx.xxx/files/
+    Log saving path: storage/emulated/0/Android/data/com.xx.xxx/files/
     
