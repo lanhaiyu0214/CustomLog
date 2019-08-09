@@ -28,5 +28,5 @@ With this lib:
 
 ### Mark:
 
-    Log saving path: storage/emulated/0/Android/data/com.xx.xxx/files/
+    Log saving path: storage/emulated/0/Android/data/com.xx.xxx/files/logs
     
