@@ -1,5 +1,6 @@
 # CustomLog
-With this lib,you call filer the log that just belong to your app easily.
+
+With this lib,you call filter the log that just belong to your app easily.
 
 ### How to use this lib
 
@@ -7,15 +8,18 @@ With this lib,you call filer the log that just belong to your app easily.
 
 2. Do the init in Application 
 
-    CustomLog.setSearchKey("APPO");  //APPO is the filer which one you want
+    CustomLog.setSearchKey("APPO");  //APPO is the fitler which one you want
+    
     CustomLog.enableDiskSaved(this); //Saving the logs to native sdcard
  
  3. The same using with Log
+ ```
     CustomLog.d(TAG, "XXX");
     CustomLog.e(TAG, "XXX");
     CustomLog.printStack(TAG, "Where");  //Print the function calling stack  
-    
+ ```   
  4. Filter all the log belong to your app
+ 
     just filter "APPO"
 
 Mark:
